@@ -21,3 +21,5 @@ Il sert de modèle : chaque copie (instance) garde un lien avec le composant pri
 Modifier le composant principal met automatiquement à jour toutes ses instances, ce qui
 garantit la cohérence 
 
+mon figma : https://www.figma.com/design/na4F9cATATBGK4JYWZLgnJ/swag?node-id=0-1&t=sEPfZpRcOLJLAiHa-1
+
