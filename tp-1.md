@@ -1,4 +1,4 @@
-
+# ihm
 1)  Un besoin utilisateur est ce que l’utilisateur veut faire ou atteindre avec une application. Il correspond à une tâche à réaliser, un objectif à atteindre ou une contrainte dans un contexte donné. Dans notre interface Figma, nous répondons à ces besoins en affichant toutes les tâches avec leur priorité sur la page d’accueil pour permettre à l’utilisateur de les voir rapidement. L’utilisateur peut ajouter une nouvelle tâche facilement grâce à un bouton « + » et savoir si une tâche est terminée grâce à une case à cocher indiquant son état.
 
 2)   Analyse des besoins et du contexte – Identification des utilisateurs cibles. – Étude
