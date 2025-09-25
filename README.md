@@ -13,16 +13,12 @@ de maquettes haute fidélité (ex. avec Figma). – Prototypage interactif.
 – Collecte de feedback. – Ajustements et itérations. 
 Actuellement sur mon projet Figma je pense être au contexte d'usage j'ai fait mes prototypes j'ai crée un bouton qui permet l'utilisateur d'aller sur un lien choisi j'ai aussi fait une transition 
 
-3)  En ajoutant des observateurs a notre Figma. Nous repondons au principes fondamentales de l'implication des utilisateurs 
-
-
-
-
+3)  En ajoutant des observateurs a notre Figma. Nous repondons au principes fondamentales de l'implication des utilisateurs car on leur donnes la possibilité de voir l’avancement, de commenter le travail et donc de participer activement à la conception
 
 
 4)  Un calque (ou layer) est une unité fondamentale de travail dans Figma qui représente un élément individuel de la conception, comme une forme, un texte, une image ou un groupe. Les calques fonctionnent comme des feuilles superposées : l’ordre dans lequel ils sont placés détermine ce qui se voit par-dessus ou en dessous. Pour bien les utiliser, il est recommandé de les nommer clairement, les regrouper quand c’est possible et vérifier leur ordre afin que le projet reste clair et facile à modifier.
 
-4)  Un composant est un élément réutilisable dans Figma (ex. bouton, icône, carte d’article).
+5)  Un composant est un élément réutilisable dans Figma (ex. bouton, icône, carte d’article).
 Il sert de modèle : chaque copie (instance) garde un lien avec le composant principal.
 Modifier le composant principal met automatiquement à jour toutes ses instances, ce qui
 garantit la cohérence
